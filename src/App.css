@@ -1,0 +1,15 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+section#section-1 {
+    min-height: 700px;
+}
+section#section-2 {
+    min-height: 700px;
+}
+section#section-3 {
+    min-height: 700px;
+}
+section#section-4 {
+    min-height: 500px;
+}

@@ -1,0 +1,17 @@
+a.nav-link {
+    margin-left: 30px;
+    color: #000;
+}
+
+nav.navbar.active{
+    position: sticky;
+    width: 100%;
+    top: 0;
+    background-color: #fff;
+    height: 100px;
+    transition: all 0.5s linear;
+    z-index: 10;
+}
+.btn-check:focus+.btn, .btn:focus {
+    box-shadow: none !important;
+}
